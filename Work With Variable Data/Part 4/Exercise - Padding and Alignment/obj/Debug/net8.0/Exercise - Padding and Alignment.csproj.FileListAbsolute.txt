@@ -1,0 +1,14 @@
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - Padding and Alignment\bin\Debug\net8.0\Exercise - Padding and Alignment.exe
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - Padding and Alignment\bin\Debug\net8.0\Exercise - Padding and Alignment.deps.json
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - Padding and Alignment\bin\Debug\net8.0\Exercise - Padding and Alignment.runtimeconfig.json
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - Padding and Alignment\bin\Debug\net8.0\Exercise - Padding and Alignment.dll
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - Padding and Alignment\bin\Debug\net8.0\Exercise - Padding and Alignment.pdb
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - Padding and Alignment\obj\Debug\net8.0\Exercise - Padding and Alignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - Padding and Alignment\obj\Debug\net8.0\Exercise - Padding and Alignment.AssemblyInfoInputs.cache
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - Padding and Alignment\obj\Debug\net8.0\Exercise - Padding and Alignment.AssemblyInfo.cs
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - Padding and Alignment\obj\Debug\net8.0\Exercise - Padding and Alignment.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - Padding and Alignment\obj\Debug\net8.0\Exercise - Padding and Alignment.dll
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - Padding and Alignment\obj\Debug\net8.0\refint\Exercise - Padding and Alignment.dll
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - Padding and Alignment\obj\Debug\net8.0\Exercise - Padding and Alignment.pdb
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - Padding and Alignment\obj\Debug\net8.0\Exercise - Padding and Alignment.genruntimeconfig.cache
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - Padding and Alignment\obj\Debug\net8.0\ref\Exercise - Padding and Alignment.dll

@@ -1,0 +1,14 @@
+D:\Belajar\C#\Work With Variable Data\Challenge Project\bin\Debug\net8.0\Challenge Project.exe
+D:\Belajar\C#\Work With Variable Data\Challenge Project\bin\Debug\net8.0\Challenge Project.deps.json
+D:\Belajar\C#\Work With Variable Data\Challenge Project\bin\Debug\net8.0\Challenge Project.runtimeconfig.json
+D:\Belajar\C#\Work With Variable Data\Challenge Project\bin\Debug\net8.0\Challenge Project.dll
+D:\Belajar\C#\Work With Variable Data\Challenge Project\bin\Debug\net8.0\Challenge Project.pdb
+D:\Belajar\C#\Work With Variable Data\Challenge Project\obj\Debug\net8.0\Challenge Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\Work With Variable Data\Challenge Project\obj\Debug\net8.0\Challenge Project.AssemblyInfoInputs.cache
+D:\Belajar\C#\Work With Variable Data\Challenge Project\obj\Debug\net8.0\Challenge Project.AssemblyInfo.cs
+D:\Belajar\C#\Work With Variable Data\Challenge Project\obj\Debug\net8.0\Challenge Project.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\Work With Variable Data\Challenge Project\obj\Debug\net8.0\Challenge Project.dll
+D:\Belajar\C#\Work With Variable Data\Challenge Project\obj\Debug\net8.0\refint\Challenge Project.dll
+D:\Belajar\C#\Work With Variable Data\Challenge Project\obj\Debug\net8.0\Challenge Project.pdb
+D:\Belajar\C#\Work With Variable Data\Challenge Project\obj\Debug\net8.0\Challenge Project.genruntimeconfig.cache
+D:\Belajar\C#\Work With Variable Data\Challenge Project\obj\Debug\net8.0\ref\Challenge Project.dll

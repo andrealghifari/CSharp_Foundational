@@ -1,0 +1,14 @@
+D:\Belajar\C#\branching_looping\bin\Debug\net8.0\branching_looping.exe
+D:\Belajar\C#\branching_looping\bin\Debug\net8.0\branching_looping.deps.json
+D:\Belajar\C#\branching_looping\bin\Debug\net8.0\branching_looping.runtimeconfig.json
+D:\Belajar\C#\branching_looping\bin\Debug\net8.0\branching_looping.dll
+D:\Belajar\C#\branching_looping\bin\Debug\net8.0\branching_looping.pdb
+D:\Belajar\C#\branching_looping\obj\Debug\net8.0\branching_looping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\branching_looping\obj\Debug\net8.0\branching_looping.AssemblyInfoInputs.cache
+D:\Belajar\C#\branching_looping\obj\Debug\net8.0\branching_looping.AssemblyInfo.cs
+D:\Belajar\C#\branching_looping\obj\Debug\net8.0\branching_looping.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\branching_looping\obj\Debug\net8.0\branching_looping.dll
+D:\Belajar\C#\branching_looping\obj\Debug\net8.0\refint\branching_looping.dll
+D:\Belajar\C#\branching_looping\obj\Debug\net8.0\branching_looping.pdb
+D:\Belajar\C#\branching_looping\obj\Debug\net8.0\branching_looping.genruntimeconfig.cache
+D:\Belajar\C#\branching_looping\obj\Debug\net8.0\ref\branching_looping.dll

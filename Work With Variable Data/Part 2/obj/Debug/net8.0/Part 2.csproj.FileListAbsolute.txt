@@ -1,0 +1,14 @@
+D:\Belajar\C#\Work With Variable Data\Part 2\bin\Debug\net8.0\Part 2.exe
+D:\Belajar\C#\Work With Variable Data\Part 2\bin\Debug\net8.0\Part 2.deps.json
+D:\Belajar\C#\Work With Variable Data\Part 2\bin\Debug\net8.0\Part 2.runtimeconfig.json
+D:\Belajar\C#\Work With Variable Data\Part 2\bin\Debug\net8.0\Part 2.dll
+D:\Belajar\C#\Work With Variable Data\Part 2\bin\Debug\net8.0\Part 2.pdb
+D:\Belajar\C#\Work With Variable Data\Part 2\obj\Debug\net8.0\Part 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\Work With Variable Data\Part 2\obj\Debug\net8.0\Part 2.AssemblyInfoInputs.cache
+D:\Belajar\C#\Work With Variable Data\Part 2\obj\Debug\net8.0\Part 2.AssemblyInfo.cs
+D:\Belajar\C#\Work With Variable Data\Part 2\obj\Debug\net8.0\Part 2.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\Work With Variable Data\Part 2\obj\Debug\net8.0\Part 2.dll
+D:\Belajar\C#\Work With Variable Data\Part 2\obj\Debug\net8.0\refint\Part 2.dll
+D:\Belajar\C#\Work With Variable Data\Part 2\obj\Debug\net8.0\Part 2.pdb
+D:\Belajar\C#\Work With Variable Data\Part 2\obj\Debug\net8.0\Part 2.genruntimeconfig.cache
+D:\Belajar\C#\Work With Variable Data\Part 2\obj\Debug\net8.0\ref\Part 2.dll

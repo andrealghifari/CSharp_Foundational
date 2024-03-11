@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: Guided Project",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Guided Project.csproj",
+            "launchConfigurationId": "TargetFramework=;Guided Project"
+        }
+    ]
+}

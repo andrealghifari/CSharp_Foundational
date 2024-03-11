@@ -1,0 +1,14 @@
+D:\Belajar\C#\boolean_expression\bin\Debug\net8.0\boolean_expression.exe
+D:\Belajar\C#\boolean_expression\bin\Debug\net8.0\boolean_expression.deps.json
+D:\Belajar\C#\boolean_expression\bin\Debug\net8.0\boolean_expression.runtimeconfig.json
+D:\Belajar\C#\boolean_expression\bin\Debug\net8.0\boolean_expression.dll
+D:\Belajar\C#\boolean_expression\bin\Debug\net8.0\boolean_expression.pdb
+D:\Belajar\C#\boolean_expression\obj\Debug\net8.0\boolean_expression.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\boolean_expression\obj\Debug\net8.0\boolean_expression.AssemblyInfoInputs.cache
+D:\Belajar\C#\boolean_expression\obj\Debug\net8.0\boolean_expression.AssemblyInfo.cs
+D:\Belajar\C#\boolean_expression\obj\Debug\net8.0\boolean_expression.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\boolean_expression\obj\Debug\net8.0\boolean_expression.dll
+D:\Belajar\C#\boolean_expression\obj\Debug\net8.0\refint\boolean_expression.dll
+D:\Belajar\C#\boolean_expression\obj\Debug\net8.0\boolean_expression.pdb
+D:\Belajar\C#\boolean_expression\obj\Debug\net8.0\boolean_expression.genruntimeconfig.cache
+D:\Belajar\C#\boolean_expression\obj\Debug\net8.0\ref\boolean_expression.dll

@@ -1,0 +1,14 @@
+D:\Belajar\C#\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\Belajar\C#\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\Belajar\C#\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\Belajar\C#\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\Belajar\C#\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\Belajar\C#\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\Belajar\C#\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\Belajar\C#\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\Belajar\C#\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\Belajar\C#\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\Belajar\C#\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\Belajar\C#\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll

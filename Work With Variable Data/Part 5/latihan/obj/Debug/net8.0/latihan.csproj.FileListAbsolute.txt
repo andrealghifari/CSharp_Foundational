@@ -1,0 +1,14 @@
+D:\Belajar\C#\Work With Variable Data\Part 5\latihan\bin\Debug\net8.0\latihan.exe
+D:\Belajar\C#\Work With Variable Data\Part 5\latihan\bin\Debug\net8.0\latihan.deps.json
+D:\Belajar\C#\Work With Variable Data\Part 5\latihan\bin\Debug\net8.0\latihan.runtimeconfig.json
+D:\Belajar\C#\Work With Variable Data\Part 5\latihan\bin\Debug\net8.0\latihan.dll
+D:\Belajar\C#\Work With Variable Data\Part 5\latihan\bin\Debug\net8.0\latihan.pdb
+D:\Belajar\C#\Work With Variable Data\Part 5\latihan\obj\Debug\net8.0\latihan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\Work With Variable Data\Part 5\latihan\obj\Debug\net8.0\latihan.AssemblyInfoInputs.cache
+D:\Belajar\C#\Work With Variable Data\Part 5\latihan\obj\Debug\net8.0\latihan.AssemblyInfo.cs
+D:\Belajar\C#\Work With Variable Data\Part 5\latihan\obj\Debug\net8.0\latihan.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\Work With Variable Data\Part 5\latihan\obj\Debug\net8.0\latihan.dll
+D:\Belajar\C#\Work With Variable Data\Part 5\latihan\obj\Debug\net8.0\refint\latihan.dll
+D:\Belajar\C#\Work With Variable Data\Part 5\latihan\obj\Debug\net8.0\latihan.pdb
+D:\Belajar\C#\Work With Variable Data\Part 5\latihan\obj\Debug\net8.0\latihan.genruntimeconfig.cache
+D:\Belajar\C#\Work With Variable Data\Part 5\latihan\obj\Debug\net8.0\ref\latihan.dll

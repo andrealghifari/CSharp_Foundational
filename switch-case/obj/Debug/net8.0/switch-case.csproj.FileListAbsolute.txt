@@ -1,0 +1,14 @@
+D:\Belajar\C#\switch-case\bin\Debug\net8.0\switch-case.exe
+D:\Belajar\C#\switch-case\bin\Debug\net8.0\switch-case.deps.json
+D:\Belajar\C#\switch-case\bin\Debug\net8.0\switch-case.runtimeconfig.json
+D:\Belajar\C#\switch-case\bin\Debug\net8.0\switch-case.dll
+D:\Belajar\C#\switch-case\bin\Debug\net8.0\switch-case.pdb
+D:\Belajar\C#\switch-case\obj\Debug\net8.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\switch-case\obj\Debug\net8.0\switch-case.AssemblyInfoInputs.cache
+D:\Belajar\C#\switch-case\obj\Debug\net8.0\switch-case.AssemblyInfo.cs
+D:\Belajar\C#\switch-case\obj\Debug\net8.0\switch-case.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\switch-case\obj\Debug\net8.0\switch-case.dll
+D:\Belajar\C#\switch-case\obj\Debug\net8.0\refint\switch-case.dll
+D:\Belajar\C#\switch-case\obj\Debug\net8.0\switch-case.pdb
+D:\Belajar\C#\switch-case\obj\Debug\net8.0\switch-case.genruntimeconfig.cache
+D:\Belajar\C#\switch-case\obj\Debug\net8.0\ref\switch-case.dll

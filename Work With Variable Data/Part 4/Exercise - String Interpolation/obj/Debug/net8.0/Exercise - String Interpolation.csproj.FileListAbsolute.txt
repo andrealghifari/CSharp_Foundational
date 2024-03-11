@@ -1,0 +1,14 @@
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - String Interpolation\bin\Debug\net8.0\Exercise - String Interpolation.exe
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - String Interpolation\bin\Debug\net8.0\Exercise - String Interpolation.deps.json
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - String Interpolation\bin\Debug\net8.0\Exercise - String Interpolation.runtimeconfig.json
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - String Interpolation\bin\Debug\net8.0\Exercise - String Interpolation.dll
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - String Interpolation\bin\Debug\net8.0\Exercise - String Interpolation.pdb
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - String Interpolation\obj\Debug\net8.0\Exercise - String Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - String Interpolation\obj\Debug\net8.0\Exercise - String Interpolation.AssemblyInfoInputs.cache
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - String Interpolation\obj\Debug\net8.0\Exercise - String Interpolation.AssemblyInfo.cs
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - String Interpolation\obj\Debug\net8.0\Exercise - String Interpolation.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - String Interpolation\obj\Debug\net8.0\Exercise - String Interpolation.dll
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - String Interpolation\obj\Debug\net8.0\refint\Exercise - String Interpolation.dll
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - String Interpolation\obj\Debug\net8.0\Exercise - String Interpolation.pdb
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - String Interpolation\obj\Debug\net8.0\Exercise - String Interpolation.genruntimeconfig.cache
+D:\Belajar\C#\Work With Variable Data\Part 4\Exercise - String Interpolation\obj\Debug\net8.0\ref\Exercise - String Interpolation.dll

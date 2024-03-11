@@ -1,0 +1,14 @@
+D:\Belajar\C#\do_while_2\bin\Debug\net8.0\do_while_2.exe
+D:\Belajar\C#\do_while_2\bin\Debug\net8.0\do_while_2.deps.json
+D:\Belajar\C#\do_while_2\bin\Debug\net8.0\do_while_2.runtimeconfig.json
+D:\Belajar\C#\do_while_2\bin\Debug\net8.0\do_while_2.dll
+D:\Belajar\C#\do_while_2\bin\Debug\net8.0\do_while_2.pdb
+D:\Belajar\C#\do_while_2\obj\Debug\net8.0\do_while_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\do_while_2\obj\Debug\net8.0\do_while_2.AssemblyInfoInputs.cache
+D:\Belajar\C#\do_while_2\obj\Debug\net8.0\do_while_2.AssemblyInfo.cs
+D:\Belajar\C#\do_while_2\obj\Debug\net8.0\do_while_2.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\do_while_2\obj\Debug\net8.0\do_while_2.dll
+D:\Belajar\C#\do_while_2\obj\Debug\net8.0\refint\do_while_2.dll
+D:\Belajar\C#\do_while_2\obj\Debug\net8.0\do_while_2.pdb
+D:\Belajar\C#\do_while_2\obj\Debug\net8.0\do_while_2.genruntimeconfig.cache
+D:\Belajar\C#\do_while_2\obj\Debug\net8.0\ref\do_while_2.dll

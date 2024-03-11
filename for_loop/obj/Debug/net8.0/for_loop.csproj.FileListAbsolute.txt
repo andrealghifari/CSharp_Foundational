@@ -1,0 +1,14 @@
+D:\Belajar\C#\for_loop\bin\Debug\net8.0\for_loop.exe
+D:\Belajar\C#\for_loop\bin\Debug\net8.0\for_loop.deps.json
+D:\Belajar\C#\for_loop\bin\Debug\net8.0\for_loop.runtimeconfig.json
+D:\Belajar\C#\for_loop\bin\Debug\net8.0\for_loop.dll
+D:\Belajar\C#\for_loop\bin\Debug\net8.0\for_loop.pdb
+D:\Belajar\C#\for_loop\obj\Debug\net8.0\for_loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\for_loop\obj\Debug\net8.0\for_loop.AssemblyInfoInputs.cache
+D:\Belajar\C#\for_loop\obj\Debug\net8.0\for_loop.AssemblyInfo.cs
+D:\Belajar\C#\for_loop\obj\Debug\net8.0\for_loop.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\for_loop\obj\Debug\net8.0\for_loop.dll
+D:\Belajar\C#\for_loop\obj\Debug\net8.0\refint\for_loop.dll
+D:\Belajar\C#\for_loop\obj\Debug\net8.0\for_loop.pdb
+D:\Belajar\C#\for_loop\obj\Debug\net8.0\for_loop.genruntimeconfig.cache
+D:\Belajar\C#\for_loop\obj\Debug\net8.0\ref\for_loop.dll
