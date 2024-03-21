@@ -1,0 +1,15 @@
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\bin\Debug\net8.0\Part 3 lanjutan.exe
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\bin\Debug\net8.0\Part 3 lanjutan.deps.json
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\bin\Debug\net8.0\Part 3 lanjutan.runtimeconfig.json
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\bin\Debug\net8.0\Part 3 lanjutan.dll
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\bin\Debug\net8.0\Part 3 lanjutan.pdb
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\obj\Debug\net8.0\Part 3 lanjutan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\obj\Debug\net8.0\Part 3 lanjutan.AssemblyInfoInputs.cache
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\obj\Debug\net8.0\Part 3 lanjutan.AssemblyInfo.cs
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\obj\Debug\net8.0\Part 3 lanjutan.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\obj\Debug\net8.0\Part 3 lanjutan.sourcelink.json
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\obj\Debug\net8.0\Part 3 lanjutan.dll
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\obj\Debug\net8.0\refint\Part 3 lanjutan.dll
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\obj\Debug\net8.0\Part 3 lanjutan.pdb
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\obj\Debug\net8.0\Part 3 lanjutan.genruntimeconfig.cache
+D:\Belajar\C#\Create Methods\Part 3 lanjutan\obj\Debug\net8.0\ref\Part 3 lanjutan.dll

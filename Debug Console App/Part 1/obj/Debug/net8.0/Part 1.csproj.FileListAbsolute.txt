@@ -1,0 +1,15 @@
+D:\Belajar\C#\Debug Console App\Part 1\bin\Debug\net8.0\Part 1.exe
+D:\Belajar\C#\Debug Console App\Part 1\bin\Debug\net8.0\Part 1.deps.json
+D:\Belajar\C#\Debug Console App\Part 1\bin\Debug\net8.0\Part 1.runtimeconfig.json
+D:\Belajar\C#\Debug Console App\Part 1\bin\Debug\net8.0\Part 1.dll
+D:\Belajar\C#\Debug Console App\Part 1\bin\Debug\net8.0\Part 1.pdb
+D:\Belajar\C#\Debug Console App\Part 1\obj\Debug\net8.0\Part 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\Debug Console App\Part 1\obj\Debug\net8.0\Part 1.AssemblyInfoInputs.cache
+D:\Belajar\C#\Debug Console App\Part 1\obj\Debug\net8.0\Part 1.AssemblyInfo.cs
+D:\Belajar\C#\Debug Console App\Part 1\obj\Debug\net8.0\Part 1.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\Debug Console App\Part 1\obj\Debug\net8.0\Part 1.sourcelink.json
+D:\Belajar\C#\Debug Console App\Part 1\obj\Debug\net8.0\Part 1.dll
+D:\Belajar\C#\Debug Console App\Part 1\obj\Debug\net8.0\refint\Part 1.dll
+D:\Belajar\C#\Debug Console App\Part 1\obj\Debug\net8.0\Part 1.pdb
+D:\Belajar\C#\Debug Console App\Part 1\obj\Debug\net8.0\Part 1.genruntimeconfig.cache
+D:\Belajar\C#\Debug Console App\Part 1\obj\Debug\net8.0\ref\Part 1.dll

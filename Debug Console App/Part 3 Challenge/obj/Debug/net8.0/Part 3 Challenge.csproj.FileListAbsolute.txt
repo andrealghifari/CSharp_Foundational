@@ -1,0 +1,15 @@
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\bin\Debug\net8.0\Part 3 Challenge.exe
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\bin\Debug\net8.0\Part 3 Challenge.deps.json
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\bin\Debug\net8.0\Part 3 Challenge.runtimeconfig.json
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\bin\Debug\net8.0\Part 3 Challenge.dll
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\bin\Debug\net8.0\Part 3 Challenge.pdb
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\obj\Debug\net8.0\Part 3 Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\obj\Debug\net8.0\Part 3 Challenge.AssemblyInfoInputs.cache
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\obj\Debug\net8.0\Part 3 Challenge.AssemblyInfo.cs
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\obj\Debug\net8.0\Part 3 Challenge.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\obj\Debug\net8.0\Part 3 Challenge.sourcelink.json
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\obj\Debug\net8.0\Part 3 Challenge.dll
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\obj\Debug\net8.0\refint\Part 3 Challenge.dll
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\obj\Debug\net8.0\Part 3 Challenge.pdb
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\obj\Debug\net8.0\Part 3 Challenge.genruntimeconfig.cache
+D:\Belajar\C#\Debug Console App\Part 3 Challenge\obj\Debug\net8.0\ref\Part 3 Challenge.dll

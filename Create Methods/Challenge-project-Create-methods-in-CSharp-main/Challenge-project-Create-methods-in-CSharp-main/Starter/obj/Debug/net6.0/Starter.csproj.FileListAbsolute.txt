@@ -1,0 +1,15 @@
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.exe
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.deps.json
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.runtimeconfig.json
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.dll
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.pdb
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.sourcelink.json
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.dll
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\refint\Starter.dll
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.pdb
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+D:\Belajar\C#\Create Methods\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\ref\Starter.dll
